@@ -1,0 +1,30 @@
+.Google_Logo{
+    position: relative;
+    top: 190px;
+    left: 695px;
+}
+.searchbar{
+    position: absolute;
+    bottom: -70px;
+    left: -150px;
+}
+.searchbar input[type=text]{
+    font-size: 20px;
+    text-align: left;
+    width: 168%;
+    border-radius: 30px;
+    padding: 10px;
+    border-style: solid;
+}
+input:focus {
+  font-size: 120%;
+}
+.Gb1{
+    position: absolute;
+    padding: 10px;
+    left: 2.5cm;
+}
+.Gb2{
+    position: absolute;
+    left: 8cm;
+}
